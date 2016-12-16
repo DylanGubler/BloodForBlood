@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c8e494ddf1674b043bea24eba69e6166
+timeCreated: 1481519803
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - muzzle: {fileID: 412146, guid: dd9e3db5697cd1a46aa35113889d5469, type: 2}
+  - projectile: {fileID: 11406118, guid: 238797a45ecaaef4c8ec77b7720d6e78, type: 2}
+  - shell: {fileID: 499016, guid: a1371db6ee5bcf2449dddddeae535a80, type: 2}
+  - shellEjection: {fileID: 450358, guid: dd9e3db5697cd1a46aa35113889d5469, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
